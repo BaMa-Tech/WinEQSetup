@@ -1,15 +1,5 @@
 # WinEQ
 
-> **Branch sperimentale isolato.** Questo branch (`claude/unified-band-mode`) unifica le due
-> versioni sviluppate finora — quella in produzione a tre bande
-> (`claude/windows-audio-control-midi-6idh00`) e quella sperimentale a sei bande più Preamp
-> (`claude/expanded-eq-6bands`) — in un unico programma con un interruttore **Modalità
-> equalizzatore** (Tre bande / Sei bande): scelto la prima volta dall'installer, cambiabile in
-> qualsiasi momento da Impostazioni → Generali, senza riavviare. Il motore interno resta sempre
-> a sei bande; in modalità «Tre bande» Preamp e le tre bande aggiuntive restano semplicemente
-> azzerate e fuori dall'interfaccia. Non è pensato per confluire automaticamente nel branch
-> principale: resta a sé finché non viene deciso altrimenti.
-
 Applicazione desktop nativa per **Windows 11**, in un'unica finestra compatta in stile
 plugin/synth hardware, sul modello di un programma professionale:
 
